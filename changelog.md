@@ -21,12 +21,11 @@ The following DIPI projects are routinely using this CHANGELOG.
 * `CLIMB-COVID` -- metaprojects (eg. status page, data page)
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
-
 ***
 # 2021-11-03
-## Majora
+## datapipe
 ### Changed
-* `INVITROGEN` added to `test_kit` ct validator
+* Substitute 'N' for '?' in input FASTA. (continue otherwise to reject all FASTA input sequences with non-IUPAC characters)
 
 ***
 # 2021-10-29
