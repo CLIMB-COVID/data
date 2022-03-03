@@ -24,6 +24,11 @@ The following DIPI projects are routinely using this CHANGELOG.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
 ***
+# 2022-03-03
+## Elan
+* [Elan v2](https://github.com/climb-covid/elan-nextflow) supersedes Elan v1; all data processed today and onward will pass through Elan v2
+
+***
 # 2022-02-23
 ## Majora Magenta
 * Effective immediately, "Test Majora", lovingly known as "Majora Magenta" has moved URL to `https://majora-test.covid19.climb.ac.uk/`.
